@@ -19,5 +19,5 @@
 ##### Demo Vedio
 
 
-https://github.com/Ihara23/CoinCollector/assets/78617011/fb56e25e-64f6-4696-a1f4-1096c4fdd964
+https://github.com/Ihara23/CoinCollector/assets/78617011/14112086-1aec-4264-bb08-25c25ba90fd3
 
