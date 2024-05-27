@@ -123,7 +123,7 @@ public class PlayControl : MonoBehaviour
     {
         isJumping = true;
         direction.y = jumpforce;
-        anim.Play("Jump");
+        //anim.Play("Jump");
     }
 
     private void OnControllerColliderHit(ControllerColliderHit hit)
