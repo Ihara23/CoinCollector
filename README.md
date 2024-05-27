@@ -10,4 +10,7 @@
 * Speed Control: Gradually increases the forward speed of the character to make the game complex as it reaches to end.
 * Animation Integration: Make use of animations for idle and running states.
 
+
+
+
 ![image](https://github.com/Ihara23/CoinCollector/assets/78617011/623a4a90-e599-4314-be55-fb68cb5a1601)
