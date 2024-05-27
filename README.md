@@ -14,8 +14,10 @@
 \
 \
 ![image](https://github.com/Ihara23/CoinCollector/assets/78617011/623a4a90-e599-4314-be55-fb68cb5a1601)
+
 \
 \
+
 ##### Demo Vedio
 
 
